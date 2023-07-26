@@ -13,3 +13,36 @@ p {
     font-size: 16pt;
     color: rgb(65, 85, 128);
 }
+
+/*Para utilizar los selectores de id*/
+
+#primera-noticia{
+    color: green;
+    font-size: 16pt;
+}
+
+#segunda-noticia{
+    color: brown;
+    font-size: 16pt;
+    font-weight: bold;
+}
+
+/*Selector para clases*/
+.encabezado{
+    color: blueviolet;
+    font-size: 30pt;
+}
+
+/*Selector para todos los elementos usar asterisco (*) */
+
+
+*.warning {
+    color: blueviolet;
+    font-size: 30pt;
+}
+
+/*Otra forma de usar selectores de clases*/
+.autor, .fecha, .ubicacion{    
+    text-decoration: underline;
+}
+
