@@ -1,0 +1,15 @@
+body {
+background-color: azure;
+}
+
+h1 {
+ color: blueviolet;
+}
+
+
+/* Estoy probando colores */
+p {
+    font: bold;
+    font-size: 16pt;
+    color: rgb(65, 85, 128);
+}
