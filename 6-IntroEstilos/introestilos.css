@@ -1,0 +1,17 @@
+.colores{
+
+    color:white;
+
+}
+
+body{
+    /* usando hexadecimal */
+    background-color: #348AA7;
+
+}
+
+.colores-rgba{
+color:rgb(10,10, 13,0.5);
+
+
+}
